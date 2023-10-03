@@ -1,0 +1,226 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+ font-size: 20px;
+ font-weight: 800;
+ color: black;
+ cursor: pointer;   
+}
+.navbar-brand:hover{
+    color: #055550;
+    font-size: 26px;
+    background: transparent;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.nav-link{
+    color: black;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.nav-link:hover{
+    background: #055550;
+    color:#FFC001;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.main h3{
+    font-size: 72px;
+    color: #055550;
+}
+.main h6{
+    margin-top: 10px;
+    border-bottom: 4px solid rgb(233, 20, 109);
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.smel{
+    color: rgb(233, 20, 109);
+}
+.imagess{
+ width: 520px;
+ margin-left: 742px;
+ margin-top: -554px;
+}
+.btn1{
+    padding: 10px;
+    background: #055550;
+    color: white;
+    width: 150px;
+    margin-right: 10px;
+    border: none;
+    outline: none;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.btn2{
+    padding: 10px;
+    background: #044aeb;
+    color: white;
+    width: 150px;
+    border: none;
+    outline: none;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.btn3{
+    padding: 10px;
+    background: #FFC001;
+    color: rgb(0, 0, 0);
+    width: 150px;
+    border: none;
+    outline: none;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.btn1:hover{
+    background: rgb(233, 20, 109);;
+    color: white;   
+}
+.img-fluidd{
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.contentt{
+    width: 600px;
+    margin-left: 126px;
+}
+.myname{
+    font-weight: 700;
+}
+.aboutme p{
+    color: gray;
+}
+h1{
+    font-size: 48px;
+    font-weight: 900;
+}
+.abt_services{
+    font-size: 18px;
+    width: 798px;
+    margin-left: 258px;
+}
+.card{
+    border: none;
+    outline: none;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.card h4{}
+.card p{
+    color: gray;
+}
+.circle{
+    height: 70px;
+    width: 70px;
+    background: lightgray;
+    color: black;
+    border-radius: 50%;
+    font-size: 30px;
+    padding: 12px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.circle:hover{
+    background: black;
+    color: white;
+    transition: 0.5s;
+}
+.abt_servicess{
+    font-size: 18px;
+    width: 798px;
+    margin-left: 462px;
+}
+
+.gal_images{
+    padding: 0px 16px;
+    padding-bottom: 28px;
+    -webkit-box-shadow: 9px 14px 10px 0px rgba(18,9,18,1);
+-moz-box-shadow: 9px 14px 10px 0px rgba(18,9,18,1);
+box-shadow: 9px 14px 10px 0px rgba(18,9,18,1);
+}
+
+.team{}
+.container{
+    width: 100%;
+}
+.box{
+    max-width: 350px;
+    padding: 10px;
+    margin: 10px auto;
+    -webkit-box-shadow: 0px -1px 13px 18px rgba(18,9,18,0.67);
+-moz-box-shadow: 0px -1px 13px 18px rgba(18,9,18,0.67);
+box-shadow: 0px -1px 13px 18px rgba(18,9,18,0.67);
+}
+.heading{}
+.heading h2{}
+.heading h5{}
+.box img{
+    max-width: 300px;
+    height: 300px;
+    padding: 5px;
+    margin-left: 12px;
+}
+.text{}
+.text p{}
+.btn4{
+    padding: 8px;
+    background: gray;
+    color: white;
+    margin-left: 68px;
+    width: 184px;
+    border: none;
+    outline: none;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.btn4:hover{
+    background: #055550;
+    color: #FFC001;
+}
+.jumbotron{
+    background: gray;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.contact{
+    background: url(../images/surface-shadow-texture-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.social{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: #055550;
+    text-align: center;
+}
+.social:hover{
+    background: black;
+    transition: 0.5s;
+}
+.social i{
+    margin-top: 13px;
+    font-size: 28px;
+    color: gold;
+}
+.social i:hover{
+    color: red;
+    transition: 0.5s;
+}
+.footer h3{
+    color: #055550;
+}
